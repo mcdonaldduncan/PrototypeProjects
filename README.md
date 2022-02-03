@@ -1,2 +1,2 @@
-# LiminalPrototype
+# Prototype
  
